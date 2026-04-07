@@ -1,5 +1,5 @@
 # 🤖 WhatsApp AI Chatbot  
-🚀 Built for automation, lead generation & real-time customer support
+
 ![Next.js](https://img.shields.io/badge/Next.js-13-black?logo=next.js)
 ![Supabase](https://img.shields.io/badge/Supabase-Database-green?logo=supabase)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp-Cloud_API-25D366?logo=whatsapp)
