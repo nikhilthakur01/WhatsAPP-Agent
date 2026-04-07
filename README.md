@@ -1,3 +1,4 @@
+🚀 Built for automation, lead generation & real-time customer support
 # 🤖 WhatsApp AI Chatbot  
 
 ![Next.js](https://img.shields.io/badge/Next.js-13-black?logo=next.js)
