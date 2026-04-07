@@ -70,5 +70,7 @@ Webhook URL:
 
 Nikhil Kumar
 
+![Dashboard](./dashboard.png)
+
 ## 🔥 Live Demo
 Coming Soon...
