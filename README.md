@@ -64,7 +64,7 @@ Run ngrok:
 ngrok http 3000
 
 Webhook URL:
-https://your-ngrok-url/api/webhook
+(https://anjanette-unabetting-exactly.ngrok-free.dev)
 
 ## 👨‍💻 Author
 
