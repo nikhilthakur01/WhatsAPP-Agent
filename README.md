@@ -28,3 +28,40 @@ A full-stack WhatsApp chatbot built with:
 ---
 
 ## 📂 Project Structure
+
+
+## ⚙️ Setup Instructions
+
+### 1. Clone repo
+git clone https://github.com/nikhilthakur01/WhatsAPP-Agent.git
+cd WhatsAPP-Agent
+
+### 2. Install dependencies
+npm install
+
+### 3. Setup environment variables
+
+Create `.env.local`
+
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
+
+WHATSAPP_PHONE_NUMBER_ID=
+WHATSAPP_ACCESS_TOKEN=
+WHATSAPP_VERIFY_TOKEN=
+
+OPENROUTER_API_KEY=
+
+### 4. Run project
+npm run dev 
+
+
+## 🌐 Webhook Setup
+
+Run ngrok:
+
+ngrok http 3000
+
+Webhook URL:
+https://your-ngrok-url/api/webhook
