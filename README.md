@@ -29,6 +29,13 @@
 
 ---
 
+## 🔥 Use Cases
+
+- Real estate lead generation  
+- Customer support automation  
+- WhatsApp marketing  
+- AI sales assistant  
+
 ## 📸 Screenshots
 
 ![Dashboard](./dashboard.png)
